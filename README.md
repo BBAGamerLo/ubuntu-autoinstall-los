@@ -1,11 +1,11 @@
-# Ubuntu autoinstall config file sample by Diolinux
+# Ubuntu autoinstall config file sample
 
 This is a sample file, it can be used as a reference for your own installations.
 The password is: 123
 
 Use the URL of the file in the Ubuntu Installer (Subiquity)
 
-## Create a custom ISO (alternative)
+## Create a custom ISO
 
 1. Download the official Ubuntu ISO.
 2. Extract it to a folder of your preference.
