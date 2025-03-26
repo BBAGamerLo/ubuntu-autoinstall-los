@@ -1,7 +1,7 @@
 # Ubuntu autoinstall config file sample
 
 This is a sample file, it can be used as a reference for your own installations.
-The password is: 123
+The password is: los
 
 Use the URL of the file in the Ubuntu Installer (Subiquity)
 
