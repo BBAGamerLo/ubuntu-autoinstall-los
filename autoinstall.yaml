@@ -5,7 +5,7 @@ autoinstall:
         realname: 'Lorenzo Israel'
         hostname: ubuntu-los
         username: losUbuntu
-        password: '$y$j9T$uhkxlm8nUQaNu.6rl4k2d.$DIldpYy96OHg8lFjfXfc671BZcGWkPOmaDONGAhGSg3'
+        password: '$6$4MgG7FdJHzUu$d5VZ5bW.9v8WrOeVY1T2Xo6l9Q1n7j0qXHJmzL4bN8cB3kS5VfE2RxGhC7vIyKZaP1sD3eW4rT6uY9H0'
     locale: pt_BR.utf8
     keyboard:
         layout: br
