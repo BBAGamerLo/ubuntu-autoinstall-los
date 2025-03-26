@@ -2,9 +2,9 @@
 autoinstall:
     version: 1
     identity:
-        realname: 'Dionatan Simioni'
-        hostname: ubuntu-desktop
-        username: diolinux
+        realname: 'Lorenzo Israel'
+        hostname: ubuntu-los
+        username: losUbuntu
         password: '$y$j9T$uhkxlm8nUQaNu.6rl4k2d.$DIldpYy96OHg8lFjfXfc671BZcGWkPOmaDONGAhGSg3'
     locale: pt_BR.utf8
     keyboard:
@@ -12,11 +12,16 @@ autoinstall:
     timezone: "America/Sao_Paulo"   
     packages:
         - libreoffice
+        - chromium-browser
         - gimp
         - git
         - wget
+        - shotcut
+        - code
+        - audacity
+        - echo
     snaps:
-        - name: spotify
+        - name: lunacy
           channel: stable
           classic: false
     codecs:
@@ -25,4 +30,4 @@ autoinstall:
         install: true
     updates: all
     shutdown: reboot
-
+    
